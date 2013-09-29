@@ -12,6 +12,7 @@ Package.on_use(function (api) {
     'sjcl/core/codecString.js',
     'sjcl/core/codecHex.js',
     'sjcl/core/codecBase64.js',
+    'sjcl/core/codecArrayBuffer.js',
     'sjcl/core/sha256.js',
     'sjcl/core/ccm.js',
     'sjcl/core/ocb2.js',
