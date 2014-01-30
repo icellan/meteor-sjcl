@@ -1,3 +1,4 @@
 [submodule "sjcl"]
 	path = sjcl
 	url = git://github.com/siggioskarsson/sjcl.git
+	branch = peerlibrary
