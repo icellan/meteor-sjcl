@@ -1,8 +1,8 @@
 {
   "name": "sjcl",
   "description": "Meteor smart package for Stanford Javascript Crypto Library",
-  "homepage": "https://github.com/peerlibrary/meteor-sjcl",
+  "homepage": "https://github.com/siggioskarsson/meteor-sjcl",
   "author": "The PeerLibrary Project",
-  "version": "1.0.0.3",
-  "git": "https://github.com/peerlibrary/meteor-sjcl.git"
+  "version": "1.0.0",
+  "git": "https://github.com/siggioskarsson/meteor-sjcl.git"
 }
