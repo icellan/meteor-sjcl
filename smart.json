@@ -3,6 +3,6 @@
   "description": "Meteor smart package for Stanford Javascript Crypto Library",
   "homepage": "https://github.com/siggioskarsson/meteor-sjcl",
   "author": "The PeerLibrary Project",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "git": "https://github.com/siggioskarsson/meteor-sjcl.git"
 }

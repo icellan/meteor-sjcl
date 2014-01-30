@@ -22,7 +22,8 @@ Package.on_use(function (api) {
     'sjcl/core/hmac.js',
     'sjcl/core/pbkdf2.js',
     'sjcl/core/random.js',
-    'sjcl/core/convenience.js'
+    'sjcl/core/convenience.js',
+    'meteor_overrides.js'
   ], ['client', 'server']);
 });
 
