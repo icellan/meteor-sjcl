@@ -7,7 +7,6 @@ Tinytest.add('meteor-sjcl', function (test) {
   catch (e) {
   }
   test.isTrue(isDefined, "sjcl is not defined");
-  test.isTrue(Package.sjcl.sjcl, "Package.sjcl.sjcl is not defined");
 
   var bitArray = sjcl.hash.sha256.hash("message");
   var digestSHA256 = sjcl.codec.hex.fromBits(bitArray);
